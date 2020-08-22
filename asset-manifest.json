@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gh-pages-react-deploy-test/static/css/main.d9a7a9b8.chunk.css",
+    "main.js": "/gh-pages-react-deploy-test/static/js/main.896826b2.chunk.js",
+    "main.js.map": "/gh-pages-react-deploy-test/static/js/main.896826b2.chunk.js.map",
+    "runtime-main.js": "/gh-pages-react-deploy-test/static/js/runtime-main.ef5add80.js",
+    "runtime-main.js.map": "/gh-pages-react-deploy-test/static/js/runtime-main.ef5add80.js.map",
+    "static/js/2.8b579a12.chunk.js": "/gh-pages-react-deploy-test/static/js/2.8b579a12.chunk.js",
+    "static/js/2.8b579a12.chunk.js.map": "/gh-pages-react-deploy-test/static/js/2.8b579a12.chunk.js.map",
+    "index.html": "/gh-pages-react-deploy-test/index.html",
+    "precache-manifest.6a0b0416029b99842bd8a9710f00ed68.js": "/gh-pages-react-deploy-test/precache-manifest.6a0b0416029b99842bd8a9710f00ed68.js",
+    "service-worker.js": "/gh-pages-react-deploy-test/service-worker.js",
+    "static/css/main.d9a7a9b8.chunk.css.map": "/gh-pages-react-deploy-test/static/css/main.d9a7a9b8.chunk.css.map",
+    "static/js/2.8b579a12.chunk.js.LICENSE.txt": "/gh-pages-react-deploy-test/static/js/2.8b579a12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5add80.js",
+    "static/js/2.8b579a12.chunk.js",
+    "static/css/main.d9a7a9b8.chunk.css",
+    "static/js/main.896826b2.chunk.js"
+  ]
+}
